@@ -1,2 +1,2 @@
-# delta-lab
-Delta Lab
+# fox-trot lab
+Foxtrot Lab
