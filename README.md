@@ -1,2 +1,2 @@
-# fox-trot lab
-Foxtrot Lab
+# foxtrot-lab
+foxtrot Lab
